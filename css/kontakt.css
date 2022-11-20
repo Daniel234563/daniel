@@ -1,0 +1,22 @@
+/* Her legger jeg til bakgrunnsbildet som jeg laget, og tilpasser den.*/
+
+body {
+    background-image: url(../img/kontakt_oss.png);
+    height: 100%;
+    background-position: initial;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* Her tilpasser jeg form-en, slik at navbaren ikke blokkerer.*/
+
+.container {
+    margin-top: 3cm;
+}
+
+.longInput {
+    border-radius: 2mm;
+    border-color: black;
+    border-style: double;
+    border-width: 6mm;
+}
