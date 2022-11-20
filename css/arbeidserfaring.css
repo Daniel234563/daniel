@@ -1,0 +1,11 @@
+/* Her bytter jeg bakgrunnsfarge*/
+
+body {
+    background-color: gray;
+}
+
+/* Her tilpasser jeg tekstens posisjon*/
+
+.faginfo {
+    margin-top: 3.5cm;
+}
