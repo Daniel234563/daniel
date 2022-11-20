@@ -1,0 +1,35 @@
+/* Her legger jeg inn et bildet, og tilpasser den*/
+
+body {
+    background-image: url(../img/person-holding-light-bulb-with-graduation-cap.jpg);
+    height: 100%;
+    background-position: initial;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* Her så designer jeg teksten, og passer på at ikke noe blokkerer teksten*/
+
+.tekst {
+    font-size: larger;
+    color: silver;
+    -webkit-text-stroke-width: 0.8px;
+    -webkit-text-stroke-color: black;
+    margin-top: 3.2cm;
+}
+
+/* Her designer jeg tekst*/
+
+.skoler {
+    color: white;
+    -webkit-text-stroke-color: silver;
+    -webkit-text-stroke-width: 0.6px;
+}
+
+/* Til slutt justerer jeg på footer*/
+
+.footer {
+    color: white;
+    -webkit-text-stroke-color: gray;
+    -webkit-text-stroke-width: 0.6px;
+}
